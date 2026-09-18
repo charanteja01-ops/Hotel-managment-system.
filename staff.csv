@@ -1,0 +1,71 @@
+staff_id,staff_name,hire_date,rating,department,is_active
+S001,Allison Hill,2017-05-22,3.74,Front Desk,No
+S002,Noah Rhodes,2024-12-22,4.35,Housekeeping,Yes
+S003,Angie Henderson,2017-12-21,3.96,Front Desk,Yes
+S004,Daniel Wagner,2024-02-25,4.08,Front Desk,Yes
+S005,Cristian Santos,2017-02-01,3.96,Concierge,Yes
+S006,Connie Lawrence,2023-08-22,4.94,Front Desk,Yes
+S007,Abigail Shaffer,2016-11-24,4.19,Guest Services,Yes
+S008,Gina Moore,2020-06-11,3.78,Concierge,Yes
+S009,Gabrielle Davis,2023-07-16,4.53,Front Desk,Yes
+S010,Ryan Munoz,2021-01-07,3.71,Housekeeping,Yes
+S011,Monica Herrera,2024-09-30,4.28,Front Desk,Yes
+S012,Jamie Arnold,2016-09-22,3.42,Housekeeping,No
+S013,Lisa Hensley,2026-02-13,3.67,Concierge,Yes
+S014,Michele Williams,2017-05-26,4.28,Front Desk,Yes
+S015,Dylan Miller,2023-11-16,4.5,Housekeeping,Yes
+S016,Brian Ramirez,2022-05-23,4.27,Housekeeping,Yes
+S017,Holly Wood,2018-01-20,4.15,Housekeeping,Yes
+S018,Derek Zuniga,2019-07-04,4.08,Housekeeping,Yes
+S019,Lisa Jackson,2023-12-07,3.61,Maintenance,Yes
+S020,Carla Gray,2026-01-05,3.91,Maintenance,Yes
+S021,Margaret Hawkins DDS,2022-04-23,4.02,Housekeeping,Yes
+S022,Patty Perez,2023-10-24,4.62,Housekeeping,No
+S023,Ethan Adams,2019-06-25,4.34,Concierge,Yes
+S024,Tommy Walter,2015-08-09,3.49,Maintenance,Yes
+S025,Matthew Foster,2019-09-14,4.33,Housekeeping,Yes
+S026,Judy Baker,2016-07-20,4.05,Guest Services,Yes
+S027,Justin Baker,2024-03-05,3.93,Concierge,Yes
+S028,Stephanie Ross,2021-10-16,4.44,Front Desk,Yes
+S029,Zachary Hicks,2024-06-28,4.61,Guest Services,Yes
+S030,Anthony Rodriguez,2025-09-30,4.57,Concierge,Yes
+S031,Rebecca Henderson,2024-05-19,3.86,Housekeeping,Yes
+S032,James Ferrell,2023-01-24,4.08,Guest Services,Yes
+S033,Tricia Valencia,2016-11-27,4.33,Front Desk,Yes
+S034,Nathan Maldonado,2022-12-18,4.59,Front Desk,Yes
+S035,Debra Davidson,2023-12-18,4.01,Maintenance,Yes
+S036,Jeffrey Chavez,2024-08-27,4.13,Front Desk,Yes
+S037,Sherri Baker,2019-12-24,3.76,Housekeeping,Yes
+S038,Cassandra Gaines,2019-12-16,3.72,Housekeeping,Yes
+S039,Elizabeth Fowler,2026-03-23,4.53,Front Desk,No
+S040,Brittany Farmer,2025-10-29,4.74,Front Desk,Yes
+S041,Paula Moreno,2016-12-04,4.17,Front Desk,No
+S042,Fred Smith,2018-03-06,4.6,Housekeeping,Yes
+S043,Sherry Decker,2019-08-22,4.34,Housekeeping,Yes
+S044,Anthony Humphrey,2017-03-10,3.94,Housekeeping,Yes
+S045,Angelica Tucker,2022-02-25,4.34,Front Desk,Yes
+S046,Philip Cannon,2017-07-31,4.82,Front Desk,Yes
+S047,John Pierce,2017-06-14,4.19,Concierge,Yes
+S048,Shane Henderson,2020-06-21,4.83,Housekeeping,Yes
+S049,Joshua Blair,2022-06-04,3.15,Concierge,No
+S050,Eric Carney,2020-03-14,4.53,Guest Services,Yes
+S051,Jessica Holmes,2019-03-07,4.23,Concierge,Yes
+S052,Danny Morgan,2015-08-28,4.08,Guest Services,Yes
+S053,Crystal Robinson,2025-01-30,4.24,Concierge,Yes
+S054,Mark Perez,2019-10-26,3.4,Front Desk,Yes
+S055,Shannon Jones,2016-05-27,4.11,Concierge,Yes
+S056,Michael Lewis,2019-03-12,4.34,Housekeeping,Yes
+S057,Timothy Duncan,2017-07-22,4.79,Front Desk,Yes
+S058,Richard Aguirre,2022-01-11,3.99,Concierge,Yes
+S059,Brent Jordan,2017-07-24,3.88,Housekeeping,Yes
+S060,John Daniel,2018-11-14,4.0,Guest Services,Yes
+S061,Victoria Garcia,2021-09-02,4.57,Maintenance,Yes
+S062,Gerald Hensley,2018-01-02,4.33,Housekeeping,Yes
+S063,Connor West,2017-08-16,3.99,Front Desk,Yes
+S064,Donald Wright,2023-09-18,4.41,Housekeeping,Yes
+S065,Jessica Callahan,2023-08-10,4.24,Housekeeping,Yes
+S066,Amber Kidd,2018-11-20,4.59,Concierge,Yes
+S067,Tracy House,2018-02-23,3.92,Front Desk,Yes
+S068,Carol Tucker,2016-03-15,4.07,Guest Services,No
+S069,James Brown,2025-11-13,4.04,Front Desk,Yes
+S070,William Baker,2026-05-03,3.61,Concierge,Yes

@@ -1,0 +1,26 @@
+hotel_id,hotel_name,city,star_rating,total_rooms,opened_date
+H001,StayPoint Kochi Retreat,Kochi,3,22,2013-06-29
+H002,StayPoint Mumbai Residency,Mumbai,3,30,2023-03-06
+H003,StayPoint Chandigarh Residency,Chandigarh,5,26,2021-03-30
+H004,StayPoint Kolkata Residency,Kolkata,3,23,2012-11-26
+H005,StayPoint Mumbai Grand,Mumbai,4,22,2020-08-02
+H006,StayPoint Mumbai Suites,Mumbai,4,26,2012-12-10
+H007,StayPoint Jaipur Grand,Jaipur,4,26,2011-07-31
+H008,StayPoint Chandigarh Retreat,Chandigarh,4,19,2011-06-27
+H009,StayPoint Mumbai Plaza,Mumbai,5,23,2010-04-17
+H010,StayPoint Bengaluru Plaza,Bengaluru,4,18,2015-09-18
+H011,StayPoint Goa Grand,Goa,3,17,2018-04-21
+H012,StayPoint Ahmedabad Suites,Ahmedabad,3,27,2009-10-07
+H013,StayPoint Ahmedabad Plaza,Ahmedabad,3,21,2020-12-12
+H014,StayPoint Mumbai Grand,Mumbai,4,17,2022-10-31
+H015,StayPoint Mumbai Residency,Mumbai,5,16,2013-03-22
+H016,StayPoint Indore Retreat,Indore,3,27,2018-03-03
+H017,StayPoint Kochi Palace,Kochi,5,27,2016-04-20
+H018,StayPoint Delhi Retreat,Delhi,3,32,2023-09-28
+H019,StayPoint Coimbatore Residency,Coimbatore,4,25,2021-08-30
+H020,StayPoint Kochi Heights,Kochi,3,31,2011-08-31
+H021,StayPoint Jaipur Heights,Jaipur,4,30,2023-05-10
+H022,StayPoint Delhi Grand,Delhi,5,30,2013-02-19
+H023,StayPoint Indore Plaza,Indore,3,27,2016-12-30
+H024,StayPoint Pune Plaza,Pune,3,18,2012-10-07
+H025,StayPoint Kochi Gardens,Kochi,4,20,2011-03-16
